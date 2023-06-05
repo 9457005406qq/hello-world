@@ -1,4 +1,4 @@
-# zgpa股票预测实验
+# zgpa股票预测
 Hi Humans!
 it is extremely lucky to meet you!
 股票预测
